@@ -18,14 +18,14 @@ const translations = {
     
     // Hero
     'hero.welcome': 'Olá, eu sou',
-    'hero.name': 'Paulo Henrique Colugnati',
+    'hero.name': 'Paulo Henrique de Andrade Colugnati',
     'hero.description': 'Desenvolvedor apaixonado por tecnologia, especializado em front-end, back-end e scripts para FiveM. Transformo ideias em soluções inovadoras.',
     'hero.linkedin': 'Abra meu LinkedIn',
     'hero.learnMore': 'Saiba Mais',
     
     // About
-    'about.title': 'Sobre Paulo Henrique Colugnati',
-    'about.intro': 'Olá! Meu nome é Paulo Henrique Colugnati, e sou um jovem programador de 16 anos, atualmente no segundo ano do ensino médio. Tenho interesse em diversas áreas da programação, como Front-End, Back-End e SQL, onde exploro o desenvolvimento completo de projetos.',
+    'about.title': 'Sobre Paulo Henrique de Andrade Colugnati',
+    'about.intro': 'Olá! Meu nome é Paulo Henrique de Andrade Colugnati, e sou um jovem programador de 16 anos, atualmente no segundo ano do ensino médio. Tenho interesse em diversas áreas da programação, como Front-End, Back-End e SQL, onde exploro o desenvolvimento completo de projetos.',
     'about.experience': 'Tenho experiência em criar sites modernos, scripts de automação usando Python, scripts para jogos (FiveM/GTARP), configurações e NUI\'s para FiveM.',
     'about.journey': 'Minha jornada começou em 2020, quando descobri o FiveM e me apaixonei pelo jogo, o que me levou a aprender Lua, a linguagem padrão do FiveM, para criar e editar scripts. Com o tempo, percebi a necessidade de aprimorar minhas NUI\'s, o que me motivou a estudar Front-End.',
     'about.growth': 'Paralelamente, mergulhei em cursos de Back-End e SQL, expandindo meu conhecimento e equilibrando estudos com essa paixão por tecnologia. Hoje, vendo meus produtos e serviços oferecendo soluções de qualidade a um custo acessível.',
@@ -116,14 +116,14 @@ en: {
   
   // Hero
   'hero.welcome': 'Hello, I am',
-  'hero.name': 'Paulo Henrique Colugnati',
+  'hero.name': 'Paulo Henrique de Andrade Colugnati',
   'hero.description': 'Passionate developer in technology, specialized in front-end, back-end, and FiveM scripts. I transform ideas into innovative solutions.',
   'hero.linkedin': 'Open my LinkedIn',
   'hero.learnMore': 'Learn More',
   
   // About
-  'about.title': 'About Paulo Henrique Colugnati',
-  'about.intro': 'Hello! My name is Paulo Henrique Colugnati, and I am a 16-year-old programmer currently in my second year of high school. I am passionate about various programming fields, including Front-End, Back-End, and SQL, where I explore full-stack project development.',
+  'about.title': 'About Paulo Henrique de Andrade Colugnati',
+  'about.intro': 'Hello! My name is Paulo Henrique de Andrade Colugnati, and I am a 16-year-old programmer currently in my second year of high school. I am passionate about various programming fields, including Front-End, Back-End, and SQL, where I explore full-stack project development.',
   'about.experience': 'I have experience building modern websites, automation scripts using Python, game scripts (FiveM/GTARP), and configurations and NUIs for FiveM.',
   'about.journey': 'My journey began in 2020 when I discovered FiveM and fell in love with the game, leading me to learn Lua, the standard language for FiveM, to create and edit scripts. Over time, I recognized the need to enhance my NUIs, which motivated me to study Front-End.',
   'about.growth': 'In parallel, I dove into Back-End and SQL courses, expanding my knowledge while balancing studies with my passion for technology. Today, I offer my products and services, delivering high-quality solutions at an affordable cost.',
