@@ -36,7 +36,7 @@ const Resume = () => {
       
       // URL do arquivo (ajuste conforme necessário)
       // Se o arquivo estiver na pasta public, use o caminho relativo
-      link.href = '/public/curriculo.pdf'; // Ajuste este caminho
+      link.href = '/curriculo.pdf'; // Ajuste este caminho
       
       // Nome do arquivo que será baixado
       link.download = 'curriculo.pdf';
