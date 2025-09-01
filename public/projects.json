@@ -97,5 +97,22 @@
     ],
     "status": "Concluído",
     "year": "2023-2024"
-  }
+  },
+  {
+    "id": 7,
+  "name": "Gerador de QR Code",
+  "projectLink": "https://qrcodephachunterbr.netlify.app",
+  "category": "Ferramenta Web",
+  "description": "Gerador de QR codes avançado com opções de personalização, permitindo criar códigos QR em alta qualidade, com opção de adicionar texto ou até mesmo imagem no QR Code.",
+  "technologies": ["React", "TypeScript", "QR Code API"],
+  "image": "https://i.ibb.co/G35c92hs/qrcode.png",
+  "features": [
+  "Interface intuitiva com preview do QR code",
+  "Múltiplas opções de personalização (texto e logo personalizado)",
+  "Suporte para diferentes tipos de conteúdo (URL, texto, WiFi, contato)",
+  "Download em alta resolução com opções de formato PNG"
+  ],
+  "status": "Em Desenvolvimento",
+  "year": "2025"
+}
 ]
