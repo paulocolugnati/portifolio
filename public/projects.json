@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Mascotes - Encontro Cultural",
+    "projectLink": "https://mascotes-encontrocultural.netlify.app",
+    "category": "Website Institucional",
+    "description": "Trabalho escolar desenvolvido para mostrar os mascotes dos Mundiais das Copas do Mundo, apresentando cada mascote desde o inicio e cada informações sobre eles",
+    "technologies": ["HTML", "CSS3", "Netlify"],
+    "image": "https://i.ibb.co/20S93mQM/mascotes.png",
+    "features": [
+      "Design colorido e atrativo",
+      "Informações sobre programação cultural",
+      "Layout responsivo para mobile",
+      "Integração com redes sociais"
+    ],
+    "status": "Concluído",
+    "year": "2022"
+  },
+  {
+    "id": 2,
+    "name": "Solidariedade - Encontro Cultural",
+    "projectLink": "https://encontro-cultural-digital.netlify.app",
+    "category": "Website Institucional",
+    "description": "Site institucional desenvolvido para promover o evento Encontro Cultural, com foco em solidariedade e ongs. O site apresenta informações sobre organizações humanitárias, conceitos de solidariedade digital e oferece recursos interativos para engajamento dos participantes.",
+    "technologies": ["HTML", "CSS3", "Netlify"],
+    "image": "https://i.ibb.co/DHhT2Xvv/solidariedade.png",
+    "features": [
+      "Design moderno e temático com cores vibrantes que representam a diversidade cultural",
+      "Layout totalmente responsivo com excelente experiência em dispositivos móveis",
+      "Seção interativa com QR Code para acesso rápido às informações do evento",
+      "Conteúdo educativo sobre solidariedade digital e organizações humanitárias"
+    ],
+    "status": "Concluído",
+    "year": "2023"
+  },
+  {
+    "id": 3,
+    "name": "Meu Primeiro Portifólio",
+    "projectLink": "https://phachunterbr.netlify.app",
+    "category": "Portfólio Pessoal",
+    "description": "Meu primeiro site portfólio desenvolvido para apresentar meus projetos e habilidades como desenvolvedor. Uma landing page que marcou o início da minha jornada no desenvolvimento web.",
+    "technologies": ["HTML", "CSS3", "Netlify", "JavaScript"],
+    "image": "https://i.ibb.co/sdr1KB9T/1portifolio.png",
+    "features": [
+      "Design limpo e minimalista com foco na usabilidade e apresentação de conteúdo",
+      "Layout totalmente responsivo com adaptação perfeita para todos os dispositivos",
+      "Navegação intuitiva com seções bem definidas para projetos e habilidades",
+      "Performance otimizada com carregamento rápido e animações sutis"
+    ],
+    "status": "Concluído",
+    "year": "2023"
+  },
+  {
+    "id": 4,
+    "name": "Sampa Roleplay",
+    "category": "FiveM Server",
+    "description": "Servidor de roleplay totalmente personalizado, equipado com scripts exclusivos, um sistema de economia avançado e altamente configurável, além de diversas funcionalidades interativas que garantem uma experiência imersiva e dinâmica para os jogadores.",
+    "technologies": ["Lua", "JavaScript", "HTML/CSS", "MySQL"],
+    "image": "https://i.ibb.co/ymVQ9HCZ/samparp.png",
+    "features": [
+      "Sistema de economia completo",
+      "Scripts de roleplay personalizados",
+      "Interface moderna e intuitiva",
+      "Otimização de performance"
+    ],
+    "status": "Concluído",
+    "year": "2022"
+  },
+  {
+    "id": 5,
+    "name": "Raze Roleplay",
+    "category": "FiveM Server",
+    "description": "Desenvolvido integralmente do zero, este servidor de roleplay é voltado para experiências de um roleplay proprio e criativo, contando com scripts exclusivos cuidadosamente elaborados. Ideal para jogadores que buscam desafios autênticos e intensos.",
+    "technologies": ["Lua", "JavaScript", "HTML/CSS", "MySQL"],
+    "image": "https://i.ibb.co/m5n8HWGw/razerp.png",
+    "features": [
+      "Sistema de Roleplay Ultra Imersivo",
+      "Economia Dinâmica e Completa",
+      "Sistema de Personalização Avançado",
+      "HUD personalizado"
+    ],
+    "status": "Concluído",
+    "year": "2023"
+  },
+  {
+    "id": 6,
+    "name": "Vamp Roleplay",
+    "category": "FiveM Server",
+    "description": "Interface de usuário moderna e responsiva para servidor temático com elementos únicos.",
+    "technologies": ["Lua", "JavaScript", "HTML/CSS", "MySQL"],
+    "image": "https://i.ibb.co/7NB6GrZm/vamprp.png",
+    "features": [
+      "Design temático gótico",
+      "Animações fluidas",
+      "Sistema de poderes vampíricos",
+      "Interface responsiva"
+    ],
+    "status": "Concluído",
+    "year": "2023-2024"
+  }
+]
