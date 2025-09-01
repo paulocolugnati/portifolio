@@ -99,7 +99,7 @@
     "year": "2023-2024"
   },
   {
-    "id": 7,
+  "id": 7,
   "name": "Gerador de QR Code",
   "projectLink": "https://qrcodephachunterbr.netlify.app",
   "category": "Ferramenta Web",
